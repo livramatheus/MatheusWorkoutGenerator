@@ -1,0 +1,7 @@
+RewriteEngine On
+
+RewriteRule ^changelog?$ index.php?url=changelog
+RewriteRule ^terms?$ index.php?url=terms
+RewriteRule ^about?$ index.php?url=about
+RewriteRule ^home?$ index.php
+RewriteRule ^search/([0-9a-zA-Z]+)/?$ index.php?w=$1

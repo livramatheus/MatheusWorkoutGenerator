@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="description" content="This website generates random workouts, in case you don´t know what to train today...">
+        <meta name="keywords" content="workout, random, health, what, train, gym, exercise">
+        <link href="./src/css/css.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="./src/main.css">
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
+        <link rel="icon" href="src/images/favicon.png" />
+        <title>Insane Workout Generator</title>
+    </head>
+    <body>
+        <div class="toast ml-auto mt-3 mr-3" data-delay="2000" role="alert" id="toast-interaction" style="position: fixed; top: 0; right: 0; z-index: 3">
+            <div class="toast-header">
+                <i class="material-icons">error</i>
+                <strong class="mr-auto" id="toast-title"></strong>
+                <button type="button" class="ml-2 mb-1 close" data-dismiss="toast" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="toast-body" id="toast-text"></div>
+        </div>
+        <div class="modal fade bd-example-modal-lg" id="modal_info" tabindex="-1" role="dialog" aria-labelledby="myLargeModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-lg modal-dialog-centered">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title" id="stimulus-modal-title">
+                        
+                        </h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                <div class="modal-body" id="stimulus-modal-body">
+                    
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row m-0 my-auto justify-content-center" id="section_2">
+            <div class="col-md-6 p-0 my-auto">
+                    <div id="page_content">
+                            ##page_content##
+                    </div>
+                    <div id="page_footer">
+                            ##page_footer##
+                    </div>
+            </div>
+    </div>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/js/bootstrap-select.min.js"></script>
+        <script src="./src/script/script.js"></script>
+    </body>
+</html>

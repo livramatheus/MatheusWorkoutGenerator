@@ -1,0 +1,45 @@
+body {
+    background-image: url("../images/gym.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+}
+
+#image_front {
+	height: 100vh;
+}
+
+#section_2 {
+    height: 100vh;
+}
+
+#section_3 {
+    height: 100vh;
+}
+
+#workout-level {
+    -webkit-appearance: none;
+}
+
+.form-input {
+    border-bottom-width: 1px !important; 
+    border-bottom-style: solid !important; 
+    border-bottom-color: #4a4a4a !important;
+    border-top-style: none !important; 
+    border-right-style: none !important; 
+    border-left-style: none !important;
+}
+
+.form-input:hover {
+    background-color: #c8c7c7 !important;
+}
+
+.custom-select {
+    cursor: pointer;
+}
+
+.underlined-text {
+    text-decoration: underline;
+    cursor: pointer;
+}

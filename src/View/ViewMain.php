@@ -37,7 +37,7 @@ class ViewMain {
                     <div class="card-body">
                         <div class="form-group">
                             <label for="workout-level">
-                                <h6>You want to train...</h6>
+                                <h6>You are a...</h6>
                             </label>
                             <select class="custom-select bg-light form-input form-control selectpicker form-input" id="workout-level" name="level" required>
 <?php

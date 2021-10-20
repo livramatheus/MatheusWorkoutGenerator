@@ -1,8 +1,9 @@
 <?php
 
 use Mwg\Controller\ControllerFooter;
+use Mwg\Core\Template;
 
-$sTemplate = file_get_contents('src/template/tpl.txt');
+$sTemplate = Template::getTemplate();
 
 $oFooter      = new ControllerFooter();
 $sFooter      = $oFooter->render();

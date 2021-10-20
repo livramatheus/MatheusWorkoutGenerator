@@ -12,20 +12,20 @@ class Db {
     private function __construct() {}
     private function __clone() {}
     
-    /** This function loads the database password from a external file for improved security */
-    private static function getPass() {
-        return file_get_contents('src/ATc17A69/data.txt');
-    }
-    
     /**
      * @return Db Returns a valid database connection via singleton pattern
      */
     public static function getInstance() {
         if (!isset(self::$instance)) {
-            $host     = 'localhost';
-            $user     = 'root';
-            $dbname   = 'iwg';
-            $password = self::getPass();
+            $sUrl = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+            $host     = $sUrl["host"];
+            $user     = $sUrl["user"];
+            $dbname   = substr($sUrl["path"],1);
+            $password = $sUrl["pass"]; 
+    
+            $active_group = 'default';
+            $query_builder = TRUE;
             
             self::$instance = mysqli_connect($host, $user, $password, $dbname);
            

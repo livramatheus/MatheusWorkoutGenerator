@@ -1,12 +1,13 @@
 <?php
 
 use Mwg\Controller\ControllerFooter;
+use Mwg\Core\Template;
 
 global $_GENERAL;
-$sTemplate = file_get_contents('src/template/tpl.txt');
+$sTemplate = Template::getTemplate();
 
-$oFooter      = new ControllerFooter();
-$sFooter      = $oFooter->render();
+$oFooter = new ControllerFooter();
+$sFooter = $oFooter->render();
 
 $sAbout = '<ul>
                     <li><b>' .$_GENERAL['project_name']. '</b> is a free tool that was built to help you decide which workout you will do on that last minute before training.</li>

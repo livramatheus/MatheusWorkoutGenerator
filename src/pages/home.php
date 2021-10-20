@@ -2,8 +2,9 @@
 
 use Mwg\Controller\ControllerMain;
 use Mwg\Controller\ControllerFooter;
+use Mwg\Core\Template;
 
-$sTemplate = file_get_contents('src/template/tpl.txt');
+$sTemplate = Template::getTemplate();
 
 $bAjax = filter_input(INPUT_POST, 'ajax', FILTER_VALIDATE_BOOLEAN);
 

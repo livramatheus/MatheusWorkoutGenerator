@@ -10,7 +10,7 @@
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
         <link rel="icon" href="src/images/favicon.png" />
-        <title>Insane Workout Generator</title>
+        <title>Matheus' Workout Generator</title>
     </head>
     <body>
         <div class="toast ml-auto mt-3 mr-3" data-delay="2000" role="alert" id="toast-interaction" style="position: fixed; top: 0; right: 0; z-index: 3">

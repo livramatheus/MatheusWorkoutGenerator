@@ -10,7 +10,7 @@ use Mwg\Core\CookieKeys;
 use Mwg\Core\CookieTerms;
 use Mwg\Core\UrlManager;
 
-require_once realpath("./src/core/general.php");
+require_once ("src/core/general.php");
 
 new CookieKeys();
 new CookieTerms();

@@ -5,8 +5,8 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="This website generates random workouts, in case you don´t know what to train today...">
         <meta name="keywords" content="workout, random, health, what, train, gym, exercise">
-        <link href="https://matheus-workout-generator.herokuapp.com/css/css.css" rel="stylesheet" type="text/css"/>
-        <link rel="stylesheet" href="https://matheus-workout-generator.herokuapp.com/main.css">
+        <link href="./src/css/css.css" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="./src/main.css">
         <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-select@1.13.14/dist/css/bootstrap-select.min.css">
         <title>Insane Workout Generator</title>

@@ -27,7 +27,7 @@ ____
 
 This project was developed with the intention of **dealing with different technologies and launching a complete product**: from planning, development to hosting. 
 
-By developing this application, I was able to learn new concepts and face various types of problems along the way.
+By developing this application, I was able to learn new concepts and face various types of problems along the way. 
 
 As I'm very connected to the sport, I didn't hesitate when choosing the topic: workout generator.
 

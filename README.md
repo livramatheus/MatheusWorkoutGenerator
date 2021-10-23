@@ -123,7 +123,7 @@ Check out this project running on [Heroku](https://matheus-workout-generator.her
 
 Full stack developed by **Matheus do Livramento**.
 
-[GitHub](https://github.com/livramatheus) | [LinkedIn](https://www.linkedin.com/in/matheus-livramento-623590209/)
+[GitHub](https://github.com/livramatheus) | [LinkedIn](https://www.linkedin.com/in/livramatheus)
 
 ____
 # Documentação em português
@@ -245,4 +245,4 @@ Veja este projeto rodando no [Heroku](https://matheus-workout-generator.herokuap
 
 Full stack desenvolvido por **Matheus do Livramento**.
 
-[GitHub](https://github.com/livramatheus) | [LinkedIn](https://www.linkedin.com/in/matheus-livramento-623590209/)
+[GitHub](https://github.com/livramatheus) | [LinkedIn](https://www.linkedin.com/in/livramatheus)

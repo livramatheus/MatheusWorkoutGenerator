@@ -161,7 +161,7 @@ Check some of the back-end key points:</p>
 	<li><a href="#database-br">Banco de dados</a></li>
 	<li><a href="#how-to-set-up-br">Como configurar</a></li>
 	<li><a href="#live-demo-br">Live demo</a></li>
-	<li><a href="#autor-br">Autor</a>li>
+	<li><a href="#autor-br">Autor</a></li>
 </ul>
 <!--te-->
 

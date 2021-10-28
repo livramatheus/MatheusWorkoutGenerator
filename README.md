@@ -13,6 +13,7 @@
 <!--ts-->
 <ul>
 	<li><a href="#about-the-project">About the project</a></li>
+	<li><a href="#live-demo">Live demo</a></li>
 	<li><a href="#features">Features</a></li>
 	<li><a href="#front-end">Front-end</a></li>
 	<ul>
@@ -25,7 +26,6 @@
 	</ul>
 	<li><a href="#database">Database</a></li>
 	<li><a href="#how-to-set-up">How to set up</a></li>
-	<li><a href="#live-demo">Live demo</a></li>
 	<li><a href="#author">Author</a></li>
 </ul>
 <!--te-->
@@ -36,6 +36,10 @@
 <p>This project was developed with the intention of <strong>dealing with different technologies and launching a complete product</strong>: from planning, development to hosting. </p>
 <p>By developing this application, I was able to learn new concepts and face various types of problems along the way. </p>
 <p>As I'm very connected to the sport, I didn't hesitate when choosing the topic: workout generator.</p>
+
+<h3 id="live-demo">🌐 Live demo</h3>
+
+<p>Check out this project running on <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
 
 <h2 id="features">🔎 Features</h2>
 
@@ -131,10 +135,6 @@ Check some of the back-end key points:</p>
 	<li><strong>CLEARDB_DATABASE_URL</strong> (MySql database url)</li>
 </ul>
 
-<h3 id="live-demo">🌐 Live demo</h3>
-
-<p>Check out this project running on <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
-
 <h3 id="author">👩‍🦲 Author</h3>
 
 <p>Full stack developed by <strong>Matheus do Livramento</strong>.</p>
@@ -148,6 +148,7 @@ Check some of the back-end key points:</p>
 <!--ts-->
 <ul>
 	<li><a href="#about-the-project-br">Sobre o projeto</a></li>
+	<li><a href="#live-demo-br">Live demo</a></li>
 	<li><a href="#features-br">Funcionalidades</a></li>
 	<li><a href="#front-end-br">Front-end</a></li>
 	<ul>
@@ -160,7 +161,6 @@ Check some of the back-end key points:</p>
 	</ul>
 	<li><a href="#database-br">Banco de dados</a></li>
 	<li><a href="#how-to-set-up-br">Como configurar</a></li>
-	<li><a href="#live-demo-br">Live demo</a></li>
 	<li><a href="#autor-br">Autor</a></li>
 </ul>
 <!--te-->
@@ -171,6 +171,11 @@ Check some of the back-end key points:</p>
 <p>Este projeto foi desenvolvido com a intenção de <strong>lidar com diferentes tecnologias e lançar um produto completo</strong>: do planejamento, desenvolvimento à hospedagem.</p>
 <p>Ao desenvolver esta aplicação, fui capaz de aprender novos conceitos e enfrentar vários tipos de problemas ao longo do caminho.</p>
 <p>Como sou muito ligado ao esporte, não hesitei na escolha do tema: gerador de treino.</p>
+
+<h3 id="live-demo-br">🌐 Live demo</h3>
+
+<p>Veja este projeto rodando no <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
+
 <h2 id="features-br">🔎 Funcionalidades</h2>
 
 <p>O usuário é saudado pela página inicial, onde deve informar em qual nível físico se enquadra: amador, casual, atleta ou profissional.</p>
@@ -259,9 +264,6 @@ Check some of the back-end key points:</p>
 	<li><strong>CLEARDB_DATABASE_URL</strong> (Url do banco de dados MySql)</li>
 </ul>
 
-<h3 id="live-demo-br">🌐 Live demo</h3>
-
-<p>Veja este projeto rodando no <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
 <h3 id="autor-br">👩‍🦲 Author</h3>
 
 <p>Full stack desenvolvido por <strong>Matheus do Livramento</strong>.</p>

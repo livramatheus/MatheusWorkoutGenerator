@@ -1,4 +1,4 @@
-<h1 align="center">⛅ Matheus' Workout Generator</h1>
+<h1 align="center">Matheus' Workout Generator</h1>
 
 <ul>
 	<li><a href="#english-documentation">English documentation</a></li>

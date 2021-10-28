@@ -37,7 +37,7 @@
 <p>By developing this application, I was able to learn new concepts and face various types of problems along the way. </p>
 <p>As I'm very connected to the sport, I didn't hesitate when choosing the topic: workout generator.</p>
 
-<h3 id="live-demo">🌐 Live demo</h3>
+<h2 id="live-demo">🌐 Live demo</h2>
 
 <p>Check out this project running on <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
 
@@ -172,7 +172,7 @@ Check some of the back-end key points:</p>
 <p>Ao desenvolver esta aplicação, fui capaz de aprender novos conceitos e enfrentar vários tipos de problemas ao longo do caminho.</p>
 <p>Como sou muito ligado ao esporte, não hesitei na escolha do tema: gerador de treino.</p>
 
-<h3 id="live-demo-br">🌐 Live demo</h3>
+<h2 id="live-demo-br">🌐 Live demo</h2>
 
 <p>Veja este projeto rodando no <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
 

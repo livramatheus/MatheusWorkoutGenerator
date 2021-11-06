@@ -138,7 +138,7 @@ Check some of the back-end key points:</p>
 <h3 id="author">👩‍🦲 Author</h3>
 
 <p>Full stack developed by <strong>Matheus do Livramento</strong>.</p>
-<p><a href="https://github.com/livramatheus">GitHub</a> | <a href="https://www.linkedin.com/in/livramatheus">LinkedIn</a></p>
+<p><a href="https://github.com/livramatheus">GitHub</a> | <a href="https://www.linkedin.com/in/livramatheus">LinkedIn</a> | <a href="https://www.livramento.dev/">Website</a></p>
 <hr>
 
 <h1 id="documentação-em-português">Documentação em português</h1>
@@ -267,4 +267,4 @@ Check some of the back-end key points:</p>
 <h3 id="autor-br">👩‍🦲 Author</h3>
 
 <p>Full stack desenvolvido por <strong>Matheus do Livramento</strong>.</p>
-<p><a href="https://github.com/livramatheus">GitHub</a> | <a href="https://www.linkedin.com/in/livramatheus">LinkedIn</a></p>
+<p><a href="https://github.com/livramatheus">GitHub</a> | <a href="https://www.linkedin.com/in/livramatheus">LinkedIn</a> | <a href="https://www.livramento.dev/">Website</a></p>

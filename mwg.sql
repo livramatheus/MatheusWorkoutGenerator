@@ -168,7 +168,7 @@ INSERT INTO `tblevel` (`lvlkey`, `lvldesc`) VALUES
 
 CREATE TABLE `tblog` (
   `logip` varchar(15) COLLATE utf8mb4_unicode_ci NOT NULL,
-  `logdate` date NOT NULL
+  `logdate` datetime NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
 -- --------------------------------------------------------

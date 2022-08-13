@@ -24,7 +24,7 @@ class PersistenceLog extends PersistenceDefault {
         $sSql = 'INSERT INTO tblog(logip, logdate)
                                VALUES (?, ?);';
         
-        $this->execQueryParams($sSql, [$this->ModelLog->getIp(), date('Y-m-d')]);
+        $this->execQueryParams($sSql, [$this->ModelLog->getIp(), date('Y-m-d H:i:s')]);
         
     }
     

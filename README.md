@@ -55,7 +55,7 @@
 
 <p>The client-side of <strong>MWG</strong> was built with HTML, CSS and JavaScript, using no particular framework.
 Every page change is performed through requests, preventing the entire page from being loaded from scratch.</p>
-<p>The app's client side is can be summarized in the following layout:</p>
+<p>The app's client side can be summarized in the following layout:</p>
 
 <h3 id="layout">📐 Layout</h3>
 
@@ -77,11 +77,11 @@ Every page change is performed through requests, preventing the entire page from
 
 <h3 id="technologies-front">🔨 Technologies</h3>
 
-<p>The following techlogies were used to build MWG&#39;s front-end:</p>
+<p>The following technologies were used to build MWG&#39;s front-end:</p>
 
 <ul>
 	<li><strong>HTML</strong>: Good and old HTML</li>
-	<li><strong>JavaScript (jQuery)</strong>: All validations and async requests were performed with jQuery. (I am fully aware that this is an outdated technology, however, I chose this library because as I was already used to the syntax and it is still eventually used in my workplace in legacy code).</li>
+	<li><strong>JavaScript (jQuery)</strong>: All validations and async requests were performed with jQuery. (I am fully aware that this is an outdated technology, however, I chose this library because I was already used to the syntax and it is still eventually used in my workplace in legacy code).</li>
 	<li><strong>CSS</strong>: General CSS styling using Bootstrap.</li>
 </ul>
 
@@ -93,19 +93,19 @@ Every page change is performed through requests, preventing the entire page from
 <h2 id="back-end">Back-end</h2>
 
 <p>The back-end was developed with PHP, where every class was built from the ground up.
-Check some of the back-end key points:</p>
+Check out some of the back-end key points:</p>
 
 <ul>
 	<li>All class inclusions were made with composer&#39;s autoloader through namespaces.</li>
 	<li>Elegantly architectured via Model View Controller.</li>
 	<li>Class and folder naming are structured in the psr-4 pattern, required by the autoloader.</li>
-	<li>Friendly urls were created with the help of .htaccess to avoid ugly <em>querystrings</em>.</li>
+	<li>Friendly URLs were created with the help of .htaccess to avoid ugly <em>querystrings</em>.</li>
 	<li>A cookie system was developed to track workout view counts: the view count of a given workout will only increase when a unique user visualizes it.</li>
 </ul>
 
 <h3 id="technologies-back">🔨 Technologies</h3>
 
-<p>The following techlogies were used to build MWG's server:</p>
+<p>The following technologies were used to build MWG's server:</p>
 
 <ul>
 	<li><strong>PHP</strong>: All communication with the database and the training generation logic were performed with PHP.</li>

@@ -1,4 +1,4 @@
-<h1 align="center">Matheus' Workout Generator</h1>
+****<h1 align="center">Matheus' Workout Generator</h1>
 
 <ul>
 	<li><a href="#english-documentation">English documentation</a></li>
@@ -39,7 +39,7 @@
 
 <h2 id="live-demo">🌐 Live demo</h2>
 
-<p>Check out this project running on <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
+<p>Check out this project running on <a href="https://matheus-workout-generator.000webhostapp.com/">000Webhost</a></p>
 
 <h2 id="features">🔎 Features</h2>
 
@@ -174,7 +174,7 @@ Check out some of the back-end key points:</p>
 
 <h2 id="live-demo-br">🌐 Live demo</h2>
 
-<p>Veja este projeto rodando no <a href="https://matheus-workout-generator.herokuapp.com/">Heroku</a></p>
+<p>Veja este projeto rodando no <a href="https://matheus-workout-generator.000webhostapp.com/">000Webhost</a></p>
 
 <h2 id="features-br">🔎 Funcionalidades</h2>
 
